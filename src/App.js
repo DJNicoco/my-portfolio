@@ -16,7 +16,9 @@ function App() {
     <>
       <Navbar toggleTheme={() => setTheme(theme === 'light' ? 'dark' : 'light')} currentTheme={theme} />
       <Hero />
+      <hr />
       <Projects />
+      <hr />
       <Contact />
     </>
   );
