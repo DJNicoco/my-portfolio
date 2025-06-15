@@ -10,9 +10,6 @@ const Contact = () => {
       <p>💻 GitHub: <a href="https://github.com/DJNicoco" target="_blank" rel="noreferrer">
         github.com/DJNicoco
       </a></p>
-      <p>🎓 UFV GitLab: <a href="https://sc-gitlab.ufv.ca/Nicole.Zino" target="_blank" rel="noreferrer">
-        sc-gitlab.ufv.ca/Nicole.Zino
-      </a></p>
       <p>📄 <a href="/My%20Resume_2025.pdf" download>
         Download My Resume (PDF)
       </a></p>
