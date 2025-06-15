@@ -18,8 +18,19 @@ body {
   transition: background 0.3s, color 0.3s;
 }
 
+/* Section layout spacing */
 section {
-  padding: 2rem;
+  padding: 2rem 1rem; /* tighter side padding */
+}
+
+section h2 {
+  margin-bottom: 1rem;
+}
+
+section div {
+  margin-bottom: 1.2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
 }
 
 a {
